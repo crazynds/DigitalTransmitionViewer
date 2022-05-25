@@ -1,0 +1,23 @@
+Trabalho de comunicação de dados
+
+Digital-Digital:
+
+Codificação de linha:{
+ - Método Unipolar
+ - Método Polares{
+  - NRZ-L
+  - NRZ-I
+ }
+ - Método Bipolares{
+  - AMI
+  - Pseudoternário
+ }
+ - Bifásico{
+  - Manchester
+  - Differential Manchester
+ }
+}
+Codificação de blocos:{
+ - 
+}
+
