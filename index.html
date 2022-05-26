@@ -16,15 +16,15 @@
     <div id="q-app">
         <q-container>
             <div class="row">
-                <div class="col-6">
+                <div class="col-6" style="padding: 6px;">
                     <q-input rounded outlined v-model="binarioTransmitir" label="Binário que deseja transmitir"/>
                 </div>
-                <div class="col-4">
+                <div class="col-4" style="padding: 6px;">
                     <q-select filled v-model="transformacao" :options="options" label="Filled" />
                 </div>
             </div>
             <div class="row">
-                <div class="col-12">
+                <div class="col-12" style="padding: 6px;">
                     <canvas id="myChart" width="800" height="300"></canvas>
                 </div>
             </div>
